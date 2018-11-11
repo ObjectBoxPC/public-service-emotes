@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256">
+	<style type="text/css">
+	#background {
+		fill: white;
+	}
+	path {
+		stroke: black;
+		stroke-width: 16;
+	}
+	</style>
+	<!-- Background -->
+	<rect x="0" y="0" width="256" height="256" id="background"/>
+	<!-- Panel separators -->
+	<path d="M 128,0 l 0,256"/>
+	<path d="M 0,128 l 256,0"/>
+
+	<!-- First panel -->
+	<g transform="translate(0 0)">
+		<path d="M 32,32 l 0,56"/>
+	</g>
+
+	<!-- Second panel -->
+	<g transform="translate(136 0)">
+		<path d="M 32,32 l 0,56"/>
+		<path d="M 88,48 l 0,56"/>
+	</g>
+
+	<!-- Third panel -->
+	<g transform="translate(0 136)">
+		<path d="M 32,32 l 0,56"/>
+		<path d="M 88,32 l 0,56"/>
+	</g>
+
+	<!-- Fourth panel -->
+	<g transform="translate(136 136)">
+		<path d="M 32,32 l 0,56"/>
+		<path d="M 48,88 l 56,0"/>
+	</g>
+</svg>
