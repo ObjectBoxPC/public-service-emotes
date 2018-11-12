@@ -4,6 +4,8 @@ Public Service Emotes are public-domain emotes (or "custom emoji") for messaging
 
 All emotes are available under [Creative Commons CC0 1.0 International](https://creativecommons.org/publicdomain/zero/1.0/). (A copy is available in `LICENSE.txt`.)
 
+[Download the latest emotes here](https://github.com/philipchungtech/pse/archive/master.zip) (or use the "Clone or download" button).
+
 You can [join the Discord server](https://discord.gg/ju9jgPM) and use these emotes on Discord if you have Discord Nitro. You can also contribute new emotes.
 
 ## File Formats
