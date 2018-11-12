@@ -6,7 +6,7 @@ All emotes are available under [Creative Commons CC0 1.0 International](https://
 
 [Download the latest emotes here](https://github.com/philipchungtech/pse/archive/master.zip) (or use the "Clone or download" button).
 
-You can [join the Discord server](https://discord.gg/ju9jgPM) and use these emotes on Discord if you have Discord Nitro. You can also contribute new emotes.
+You can also [join the Discord server](https://discord.gg/ju9jgPM) and use these emotes on Discord if you have Discord Nitro. You can also contribute new emotes.
 
 ## File Formats
 
