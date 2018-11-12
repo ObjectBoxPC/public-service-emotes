@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256">
+	<style type="text/css">
+	#background {
+		fill: blue;
+	}
+	#text {
+		fill: white
+	}
+	</style>
+	<g transform="translate(0 32)">
+		<!-- Background -->
+		<rect x="0" y="0" width="256" height="192" id="background"/>
+
+		<!-- "Text" -->
+		<g id="text">
+			<rect x="96" y="32" width="64" height="16" class="text"/>
+			<rect x="32" y="64" width="192" height="8" class="text"/>
+			<rect x="32" y="80" width="128" height="8" class="text"/>
+			<rect x="32" y="96" width="160" height="8" class="text"/>
+			<rect x="64" y="128" width="128" height="8" class="text"/>
+		</g>
+	</g>
+</svg>
