@@ -4,18 +4,20 @@
 	#background {
 		fill: #f40;
 	}
-	path {
+	#text {
 		fill: white;
 	}
 	</style>
 	<!-- Background -->
 	<rect x="0" y="0" width="256" height="256" id="background"/>
 
-	<!-- Text source-->
-	<!--<text x="16" y="164" font-size="96" font-family="FreeSans" font-weight="bold">WHY</text>-->
-	<!-- Text -->
-	<path d="M 86.8,164.0 H 73.8 L 62.1,109.4 50.7,164.0 H 37.7 L 17.9,94.0 H 33.2 L 44.0,146.4 54.9,94.0 H 69.1 L 80.4,146.5 90.9,94.0 h 15.3 z
+	<g id="text">
+		<!-- Text source-->
+		<!--<text x="16" y="164" font-size="96" font-family="FreeSans" font-weight="bold">WHY</text>-->
+		<!-- Text -->
+		<path d="M 86.8,164.0 H 73.8 L 62.1,109.4 50.7,164.0 H 37.7 L 17.9,94.0 H 33.2 L 44.0,146.4 54.9,94.0 H 69.1 L 80.4,146.5 90.9,94.0 h 15.3 z
 "/>
-    <path d="m 157.9,132.2 h -27.7 V 164 h -14.4 V 94.0 h 14.4 v 26.2 h 27.6 V 94.0 h 14.5 V 164 h -14.4 z"/>
-    <path d="M 218.5,138.1 V 164 h -14.4 V 138.1 L 180.8,94.0 h 16.0 l 14.3,30.9 13.3,-30.9 h 16.1 z"/>
+		<path d="m 157.9,132.2 h -27.7 V 164 h -14.4 V 94.0 h 14.4 v 26.2 h 27.6 V 94.0 h 14.5 V 164 h -14.4 z"/>
+		<path d="M 218.5,138.1 V 164 h -14.4 V 138.1 L 180.8,94.0 h 16.0 l 14.3,30.9 13.3,-30.9 h 16.1 z"/>
+	</g>
 </svg>
