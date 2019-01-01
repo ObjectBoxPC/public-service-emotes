@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.0" width="256" height="256">
+	<style type="text/css">
+	* {
+		stroke: #040;
+		stroke-width: 16;
+	}
+	#triangle {
+		fill: #4c4;
+	}
+	#eye {
+		fill: none;
+	}
+	</style>
+	<g transform="translate(0 32)">
+		<path d="M 128,0 L 17.1,192 L 238.9,192 Z" id="triangle"/>
+		<g id="eye" transform="translate(128 120)">
+			<path d="M -64,0 Q 0,-48 64,0 Q 0,48 -64,0 Z"/>
+			<circle cx="0" cy="0" r="24"/>
+		</g>
+	</g>
+</svg>
