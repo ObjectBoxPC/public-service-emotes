@@ -12,10 +12,7 @@
 		fill: none;
 	}
 	</style>
-	<!-- Background -->
 	<rect x="0" y="64" width="256" height="128" id="background"/>
-
-	<!-- Text -->
 	<g id="text">
 		<ellipse cx="48" cy="128" rx="32" ry="48"/>
 		<path d="M 96,112 l 16,64 l 16,-64 l 16,64 l 16,-64"/>
