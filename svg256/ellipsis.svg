@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256">
+	<style type="text/css">
+	#background {
+		fill: white;
+	}
+	#text {
+		stroke: black;
+		stroke-width: 48;
+		stroke-linecap: round;
+		stroke-dasharray: 0,64;
+	}
+	</style>
+	<rect x="0" y="0" width="256" height="256" id="background"/>
+	<path d="M 64,192 l 128,0" id="text"/>
+</svg>
