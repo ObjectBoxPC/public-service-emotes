@@ -9,5 +9,6 @@
 * `nou`: Design by Philip Chung
 * `oof`: Inspired by the Roblox death sound, design by Philip Chung
 * `owo`: Design by Philip Chung
+* `utc`: Design by Philip Chung
 * `why`: Based on the Tony Kornheiser "Why" meme, design by Philip Chung
 * `youtried`: Design by Philip Chung

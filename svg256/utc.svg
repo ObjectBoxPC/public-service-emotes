@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.0" width="256" height="256">
+	<style type="text/css">
+	#frame {
+		stroke: #888;
+		stroke-width: 24;
+		fill: white;
+	}
+	.hand {
+		stroke: black;
+		stroke-width: 16;
+	}
+	#center {
+		fill: black;
+	}
+	#text {
+		fill: blue;
+	}
+	</style>
+	<circle cx="128" cy="128" r="116" id="frame"/>
+	<path d="M 128,128 l 0,-96" class="hand"/>
+	<path d="M 128,128 l 0,-64" transform="rotate(60 128 128)" class="hand"/>
+	<circle cx="128" cy="128" r="8" id="center"/>
+	<g id="text">
+		<!-- Text source -->
+		<!--<text x="60" y="192" font-family="FreeSans" font-weight="bold" font-size="64">UTC</text>-->
+		<path d="M 88.5,193.0 q -2.4,0.4 -4.9,0.4 -2.6,0.0 -5.0,-0.4 -2.4,-0.4 -4.9,-1.6 -2.5,-1.2 -4.4,-2.9 -1.9,-1.8 -3.1,-4.7 -1.2,-3.0 -1.2,-6.8 v -31.6 h 9.6 v 31.6 q 0.0,8.3 8.9,8.3 8.9,0.0 8.9,-8.3 v -31.6 h 9.6 v 31.6 q 0.0,3.8 -1.2,6.8 -1.2,2.9 -3.0,4.7 -1.9,1.8 -4.4,2.9 -2.5,1.2 -4.9,1.6 z"/>
+		<path d="M 132.9,153.3 V 192 h -9.6 V 153.3 H 109.2 v -8 h 37.4 v 8 z"/>
+		<path d="M 182.7,161.2 q -1.8,-8.4 -10.0,-8.4 -5.7,0.0 -8.9,4.4 -3.2,4.4 -3.2,12.1 0.0,7.6 3.1,11.9 3.1,4.3 8.7,4.3 4.5,0.0 7.2,-2.4 2.7,-2.4 3.1,-6.9 h 9.3 q -0.4,8.0 -5.8,12.7 -5.4,4.7 -14.1,4.7 -9.7,0.0 -15.4,-6.5 -5.7,-6.6 -5.7,-17.9 0.0,-11.3 5.8,-17.9 5.8,-6.6 15.6,-6.6 8.3,0.0 13.5,4.4 5.3,4.4 6.0,12.2 z"/>
+	</g>
+</svg>
