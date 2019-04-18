@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.0" width="256" height="256">
+	<style type="text/css">
+	#background {
+		fill: #349;
+	}
+	#x {
+		fill: #78c;
+	}
+	</style>
+	<circle cx="128" cy="128" r="128" id="background"/>
+	<path d="M 64,56 L 104,56 128,96 152,56 192,56 144,128 192,200 152,200 128,160 104,200 64,200 112,128 Z" id="x"/>
+</svg>
