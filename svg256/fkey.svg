@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.0" width="256" height="256">
+	<style type="text/css">
+	#key {
+		fill: black;
+	}
+	#text {
+		fill: white;
+	}
+	</style>
+	<rect x="32" y="32" width="192" height="192" rx="16" ry="16" id="key"/>
+	<g id="text">
+		<!-- Text source -->
+		<!--<text x="88" y="174" font-size="128" font-family="FreeSans" font-weight="bold">F</text>-->
+		<path d="M 117.4,133.8 V 174 H 98.2 V 80.7 h 65.5 v 16 H 117.4 v 21.1 h 40.8 v 16 z"/>
+	</g>
+</svg>
