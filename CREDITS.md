@@ -4,6 +4,7 @@
 * `bsod`: Design by Philip Chung
 * `ellipsis`: Design by Philip Chung
 * `eyeofprovidence`: Inspired by the US $1 bill, design by Philip Chung
+* `fkey`: Design by Philip Chung
 * `loading`: Design by Philip Chung
 * `loss`: Based on the *Ctrl+Alt+Del* [comic strip](https://cad-comic.com/comic/loss/), adapted by Philip Chung
 * `nou`: Design by Philip Chung
