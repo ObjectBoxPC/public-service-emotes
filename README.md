@@ -2,7 +2,7 @@
 
 Public Service Emotes are public-domain emotes (or "custom emoji") for messaging services like Discord and Slack.
 
-[Download the latest emotes here](https://github.com/ObjectBoxPC/public-service-emotes/archive/master.zip) (or use the "Clone or download" button).
+[Download the latest emotes here](https://github.com/ObjectBoxPC/public-service-emotes/archive/main.zip) (or use the "Clone or download" button).
 
 You can also [join the Discord server](https://discord.gg/ju9jgPM) and use these emotes on Discord if you have Discord Nitro. You can also contribute new emotes.
 
